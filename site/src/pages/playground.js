@@ -28,7 +28,7 @@ export default () => {
       input: '/* write your css below */',
       config: `// cssnano config
 {
-  "preset" : "default",
+  "preset" : "lite", // online playground can use only the "lite" preset
 }
 `,
     };
