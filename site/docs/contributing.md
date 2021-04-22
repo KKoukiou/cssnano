@@ -113,7 +113,7 @@ If you don't have time to contribute to the project directly, you can also
 help us out by starring the repository, or [follow us on Twitter][twitter].
 Word of mouth really does mean a lot to us!
 
-You can also [help support us financially](/support-us/).
+You can also [help support us financially](/docs/support-us/).
 
 [chat]: https://gitter.im/postcss/postcss
 

@@ -26,7 +26,7 @@ module.exports = {
           activeBasePath: 'optimisations',
         },
         { to: 'playground', label: 'Playground', position: 'left' },
-        { to: 'docs/support_us', label: 'Support', position: 'left' },
+        { to: 'docs/support-us', label: 'Support', position: 'left' },
         { to: 'blog', label: 'Blog', position: 'right' },
         {
           href: 'https://github.com/cssnano/cssnano',
@@ -55,7 +55,7 @@ module.exports = {
               label: 'Optimizations',
             },
             { to: 'playground', label: 'Playground' },
-            { to: 'docs/support_us', label: 'Support' },
+            { to: 'docs/support-us', label: 'Support' },
           ],
         },
         {
